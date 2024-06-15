@@ -1,0 +1,13 @@
+.todo-list {
+  font-family: sans-serif;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: rgb(148, 147, 147);
+}
+
+h1 {
+  text-align: center;
+}
+
